@@ -33,6 +33,7 @@ Swagger API documentation Link: [http://image-compresser.ap-south-1.elasticbeans
 7. The system updates the request status to "Completed" or "Failed."
 8. Webhooks (if configured) trigger upon completion, retrying failed calls up to three times.
 9. Users can check request statuses via APIs and download processed CSV files.
+10. Currently only JPG/JPEG formats are supported.
 
 ---
 
