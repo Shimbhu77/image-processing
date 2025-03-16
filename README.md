@@ -22,6 +22,8 @@ Postman Link: [https://documenter.getpostman.com/view/24217970/2sAYkBt2Qe](https
 
 Swagger API documentation Link: [http://image-compresser.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html](http://image-compresser.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html)
 
+Testing Product CSV file link: [Product Input Data CSV File](https://github.com/Shimbhu77/image-processing/tree/main/src/main/resources/testdata) 
+
 ## Solution Overview
 
 1. A user uploads a CSV file with product image URLs.
